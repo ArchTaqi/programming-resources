@@ -25,4 +25,13 @@ Python tutorials, developers to follow, best books to learn, and events to atten
 ## 4. Python Conferences 
 - [PyCon Pakistan](http://pycon.pk/)
 
-## 5 Python Influencers 
+## 5. Python Influencers 
+
+- **Guido van Rossum** _Python's creator_  [Twitter](https://twitter.com/gvanrossum) [Github](https://github.com/gvanrossum)
+- **Wes McKinney** _Panda's creator_  [Twitter](https://twitter.com/wesmckinn) [Github](https://github.com/wesm)
+- **Hilary Mason**  [Twitter](https://twitter.com/hmason) [Github](https://github.com/hmason)
+- **Jake VanderPlas** [Twitter](https://twitter.com/jakevdp) [Github](https://github.com/jakevdp)
+- **Sarah Guido**  [Twitter](https://twitter.com/sarah_guido) [Github](https://github.com/sarguido)
+- **Data Science Renee** [Twitter](https://twitter.com/BecomingDataSci)
+- **Lorena Mesa** [Twitter](https://twitter.com/loooorenanicole) [Github](https://github.com/lorenanicole)
+- **Randy Olson**  [Twitter](https://twitter.com/randal_olson) [Github](https://github.com/rhiever)
